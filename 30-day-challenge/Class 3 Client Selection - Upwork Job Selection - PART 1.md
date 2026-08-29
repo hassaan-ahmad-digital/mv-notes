@@ -87,5 +87,11 @@ Your primary goal is to **present an offer where the client clearly sees their o
 | **🔴 Low** | Cheap Dropshipping | $5 phone case storefronts | Intense market competition coupled with microscopic profit margins. |
 
 
+- **Low margin**: Argue over $5, micro manage, treat you as an expense, Stay away
+- **High margin**: your fee is an investment not a cost. They treat you like a partner. This is the target.
+- **Cash cow nauance**: Judge scale, not label. New AdSense channel = $15/video. Huge channel network = real media company, pays premium.
+
 ---
+
+
 
