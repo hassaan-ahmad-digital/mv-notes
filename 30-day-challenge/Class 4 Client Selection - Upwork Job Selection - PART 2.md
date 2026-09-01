@@ -60,4 +60,25 @@
         | Review Text | Ache alfaz, repeat hires | Micromanager, poor communication, gussay walay 1 star |
         | Hiring Pattern | mixed countries, fair rates, lambe contracts | sirf sasta, lambay contracts, choti total |
         | Title Keywords | Clear need, asli business | LONG TERM caps, cash cow, YT automation, hobby channels |
-        | Budget | Realistic, scope se match |  |
+        | Budget | Realistic, scope se match | Uper bara placeholder, neechay $20/video |
+        | Duration | 6+ months OR 30+ hours per week | One-offs, 5hr/week with bara scope |
+        | Activity | Fresh, 5 se kam proposals, no interviews | 10+ invites, interviews chal rahe, 3+ days se view nahi |
+        | Location | US, UK, AU, DE | 3rd world; canada per alert |
+        | Tone | Clear, Respectful | Hukum, dhamkiyan, over-demanding |
+        | Off-platform | Contract aur payment upwork pr | contract se pehle whatsapp/telegram push |
+        | JSS | 90% plus mangta h | 90% se kam target krta h |
+
+> Bidding Execution
+    - Reuseable Video Cover Letters (VCL): har job type k liay ek master video. Unki job post kabhi mat dikhao, apni screen, portfolio results dikhao. Ek video 100s of bids.
+    - Screening question templates: repeat hone wale sawalon k ready answers; complex sawalon k liay ek pre recorded loom, link paste kro.
+    - Job k skills tag apni profile pr mirror kro. Clients "X jobs done in this category" dekhte hain; zero = aap unke liay ajnabi ho.
+    - Har bid submit hote hi connect tracking sheet main log kro.
+
+> 7 laws
+    - Sakht process = maximum outreach, maximum sales, minimum time
+    - Trust payment k sath aata h
+    - Mentality pese se ziada important h
+    - Ek red flag caution h, pattern verdict h
+    - Margins aap ka treatment decide krte hain: High margin client k liay aap ROI ho, low margin k liay ek cost.
+    - Sab kuch track kro: Data hi system or aadat k beech ka farq h.
+    - Specialize krte raho jab tak ek premium nich aap ki apni na ho jae.
